@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\InitFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|solutionrelative:Vectors\\InitFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|solutionrelative:Vectors\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCB57285-A3D6-4442-ADFC-3607D1B4AC8C}|Vectors\\Vectors.vcxproj|solutionrelative:Vectors\\Vector4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitFunctions.cpp",
+              "DocumentMoniker": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\InitFunctions.cpp",
+              "RelativeDocumentMoniker": "Vectors\\InitFunctions.cpp",
+              "ToolTip": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\InitFunctions.cpp",
+              "RelativeToolTip": "Vectors\\InitFunctions.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:20:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector3.cpp",
+              "DocumentMoniker": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector3.cpp",
+              "RelativeDocumentMoniker": "Vectors\\Vector3.cpp",
+              "ToolTip": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector3.cpp",
+              "RelativeToolTip": "Vectors\\Vector3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:20:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector4.cpp",
+              "DocumentMoniker": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector4.cpp",
+              "RelativeDocumentMoniker": "Vectors\\Vector4.cpp",
+              "ToolTip": "D:\\Dev\\Github\\d3d12book\\MyDemos\\Chapter1 Vectors\\Vectors\\Vectors\\Vector4.cpp",
+              "RelativeToolTip": "Vectors\\Vector4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T07:20:25.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
